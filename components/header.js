@@ -25,6 +25,9 @@ const Header = () => (
         <Link href="/another">
           <a className='tab'>another</a>
         </Link>
+        <Link href="/circle">
+          <a className='tab'>circle</a>
+        </Link>
       </div>
     </div>
   </div>
