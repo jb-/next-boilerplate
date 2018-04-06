@@ -2,3 +2,4 @@
 /.next/
 /.idea/
 *.log
+.DS_Store
