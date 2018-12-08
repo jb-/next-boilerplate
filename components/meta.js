@@ -4,7 +4,7 @@ const Meta = () => (
   <div>
     <Head>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet"/>
+      <link href="https://cdn.jsdelivr.net/gh/michalsnik/aos@2.1.1/dist/aos.css" rel="stylesheet"/>
     </Head>
   </div>
 );
